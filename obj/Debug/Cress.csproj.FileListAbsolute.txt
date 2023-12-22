@@ -1,0 +1,8 @@
+C:\Users\dexte\source\repos\Cress\Cress\bin\Debug\Cress.dll
+C:\Users\dexte\source\repos\Cress\Cress\bin\Debug\Cress.pdb
+C:\Users\dexte\source\repos\Cress\Cress\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dexte\source\repos\Cress\Cress\obj\Debug\Cress.csproj.AssemblyReference.cache
+C:\Users\dexte\source\repos\Cress\Cress\obj\Debug\Cress.csproj.CoreCompileInputs.cache
+C:\Users\dexte\source\repos\Cress\Cress\obj\Debug\Cress.csproj.CopyComplete
+C:\Users\dexte\source\repos\Cress\Cress\obj\Debug\Cress.dll
+C:\Users\dexte\source\repos\Cress\Cress\obj\Debug\Cress.pdb
